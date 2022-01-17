@@ -44,6 +44,10 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-validation</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -107,7 +111,7 @@
 								<phase>package</phase>
 								<configuration>
 									<to>
-										<image>docker.io/amigoscode/${app.image.name}:${app.image.tag}</image>
+										<image>docker.io/ashraaf97/${app.image.name}:${app.image.tag}</image>
 									</to>
 								</configuration>
 								<goals>
@@ -119,7 +123,7 @@
 								<phase>package</phase>
 								<configuration>
 									<to>
-										<image>docker.io/amigoscode/${app.image.name}:latest</image>
+										<image>docker.io/ashraaf97/${app.image.name}:latest</image>
 									</to>
 								</configuration>
 								<goals>
