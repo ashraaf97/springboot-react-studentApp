@@ -10,7 +10,7 @@ Maven
 Node.js
 docker
 ```
-CICD in .github folders need to be ucommented to  enable github actions. Currently disabled.
+CICD in .github folders.
 
 ### Homepage-without-data:
 ![image 1](https://i.imgur.com/AkKCKsq.jpg)
