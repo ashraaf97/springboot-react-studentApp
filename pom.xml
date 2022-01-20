@@ -172,7 +172,7 @@
 								<phase>package</phase>
 								<configuration>
 									<to>
-										<image>amigoscode/${app.image.name}:${app.image.tag}</image>
+										<image>ashraaf97/${app.image.name}:${app.image.tag}</image>
 									</to>
 								</configuration>
 								<goals>
@@ -184,7 +184,7 @@
 								<phase>package</phase>
 								<configuration>
 									<to>
-										<image>amigoscode/${app.image.name}:latest</image>
+										<image>ashraaf97/${app.image.name}:latest</image>
 									</to>
 								</configuration>
 								<goals>
